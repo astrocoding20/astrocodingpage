@@ -1,0 +1,41 @@
+
+Borrar caché en caso de fallar deploy:
+sudo rm -rf node_modules/gh-pages/.cache
+
+hacer deploy:
+sudo npm run deploy
+
+
+Deploy de nuestra app a GitHub Pages
+
+Por ultimo falta lo más importante… Hacernos visibles al resto del mundo. Para ello vamos a utilizar Github Pages.
+En el principio del articulo ya explique lo que era, pero en resumen es un alojamiento web gratis que nos ofrece GitHub.
+
+1.Para poder hacer el deploy de nuestra app en github pages, primero necesitamos tener instalada la librería, a si que la instalamos con:
+
+sudo npm install --save-dev gh-pages
+
+2. Una vez instalada la librería, vamos a modificar nuestro archivo package.json que se encuentra en la raíz del proyecto y añadimos esta línea dentro del archivo.
+Claramente esta línea será diferente, dependiendo de vuestro nombre de usuario y el nombre de vuestro repositorio.
+
+ "homepage":"https://vandal777.github.io/my-great-portfolio",
+
+3. Ahora una vez hecho esto, tenemos que añadir un par de lineas más dentro del mismo archivo package.json dentro de “scripts” con el siguiente contenido:
+
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+
+4. Finalmente ya lo tenemos todo para poder publicar nuestra aplicación. Solo tenemos que ejecutar el siguiente comando.
+
+sudo npm run deploy
+
+Una vez hecho esto, nuestra aplicación se subirá automáticamente a la URL
+
+https://vandal777.github.io/my-great-portfolio/
+}
+La cual alojara nuestro genial Portfolio.
+
+
+##AÑADIR CUSTOM DOMAIN A UNA PAGINA DE GITHUB:
+
+https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a
