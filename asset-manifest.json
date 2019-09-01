@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/astrocodingpage/static/css/main.2cce8147.chunk.css",
+    "main.css": "/astrocodingpage/static/css/main.a9e0f460.chunk.css",
     "main.js": "/astrocodingpage/static/js/main.c43cd055.chunk.js",
     "main.js.map": "/astrocodingpage/static/js/main.c43cd055.chunk.js.map",
     "runtime~main.js": "/astrocodingpage/static/js/runtime~main.4e44131d.js",
@@ -8,9 +8,9 @@
     "static/js/2.ce1fea30.chunk.js": "/astrocodingpage/static/js/2.ce1fea30.chunk.js",
     "static/js/2.ce1fea30.chunk.js.map": "/astrocodingpage/static/js/2.ce1fea30.chunk.js.map",
     "index.html": "/astrocodingpage/index.html",
-    "precache-manifest.af62a5833fabee51ee7d8863c8e3eac3.js": "/astrocodingpage/precache-manifest.af62a5833fabee51ee7d8863c8e3eac3.js",
+    "precache-manifest.aca72143523c518c46a3904175e89060.js": "/astrocodingpage/precache-manifest.aca72143523c518c46a3904175e89060.js",
     "service-worker.js": "/astrocodingpage/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/astrocodingpage/static/css/main.2cce8147.chunk.css.map",
+    "static/css/main.a9e0f460.chunk.css.map": "/astrocodingpage/static/css/main.a9e0f460.chunk.css.map",
     "static/media/workinprogressheader.png": "/astrocodingpage/static/media/workinprogressheader.8bf813d6.png"
   }
 }
