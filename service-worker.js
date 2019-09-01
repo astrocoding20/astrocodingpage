@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/astrocodingpage/precache-manifest.74bb7139cf88da99771928b638e47950.js"
+  "/astrocodingpage/precache-manifest.af62a5833fabee51ee7d8863c8e3eac3.js"
 );
 
 self.addEventListener('message', (event) => {

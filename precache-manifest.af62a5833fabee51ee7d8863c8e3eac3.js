@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0bee76573bc4cb294a284914440bb91e",
+    "revision": "5b5a2862630ea46fbe4896bd583635de",
     "url": "/astrocodingpage/index.html"
   },
   {
-    "revision": "0edfdbc40658dd3f1bf4",
+    "revision": "723c9fcffe87f932240d",
     "url": "/astrocodingpage/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/astrocodingpage/static/js/2.ce1fea30.chunk.js"
   },
   {
-    "revision": "0edfdbc40658dd3f1bf4",
-    "url": "/astrocodingpage/static/js/main.ff3c7250.chunk.js"
+    "revision": "723c9fcffe87f932240d",
+    "url": "/astrocodingpage/static/js/main.c43cd055.chunk.js"
   },
   {
     "revision": "fef516dea9b06d4f5c3f",
     "url": "/astrocodingpage/static/js/runtime~main.4e44131d.js"
   },
   {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/astrocodingpage/static/media/logo.5d5d9eef.svg"
+    "revision": "8bf813d62ec313c849e96933042399b4",
+    "url": "/astrocodingpage/static/media/workinprogressheader.8bf813d6.png"
   }
 ]);
