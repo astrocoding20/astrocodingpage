@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62d49fe63a9f9433bca46f7563b249bd",
+    "revision": "bb847849055b5c5e64128df25ccb1ff7",
     "url": "/astrocodingpage/index.html"
   },
   {
-    "revision": "69eac06c76e9bb98250d",
+    "revision": "c0024888a4abfc3ca281",
     "url": "/astrocodingpage/static/css/main.a9e0f460.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/astrocodingpage/static/js/2.ce1fea30.chunk.js"
   },
   {
-    "revision": "69eac06c76e9bb98250d",
-    "url": "/astrocodingpage/static/js/main.c43cd055.chunk.js"
+    "revision": "c0024888a4abfc3ca281",
+    "url": "/astrocodingpage/static/js/main.bee338ea.chunk.js"
   },
   {
     "revision": "fef516dea9b06d4f5c3f",
